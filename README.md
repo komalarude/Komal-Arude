@@ -1,4 +1,4 @@
-# Hello, I'm Komal Arode 👋
+# Hello, I'm Komal Arude 👋
 
  💼 Professional Overview
 Detail-oriented and analytical professional with a strong academic foundation in *Computer Applications (MCA & BBA-CA). Passionate about leveraging technical expertise and business acumen to bridge the gap between complex code and strategic business decisions. Specializing in **Software Engineering, Data Analytics, and Business Analysis* to drive impactful, data-driven solutions.
