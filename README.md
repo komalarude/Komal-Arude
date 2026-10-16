@@ -23,6 +23,7 @@ Detail-oriented and analytical professional with a strong academic foundation in
 - *Task Manager Application*
   - *Tech Stack:* HTML, CSS, JavaScript
   - *Overview:* Developed an efficient, user-centric web application designed to streamline daily personal task workflows and enhance productivity.
+  - Live demo:[https://komalarude.github.io/task-manager-fullstack/]
 
 - *Employee Leave Management System*
   - *Tech Stack:* MySQL, Database Design
