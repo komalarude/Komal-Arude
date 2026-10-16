@@ -12,7 +12,7 @@ Detail-oriented and analytical professional with a strong academic foundation in
 
 | Domain | Key Skills & Technologies |
 | :--- | :--- |
-| *Software Devlopment* |   Java,Fullstack devlopmengt, C, C++, Python, JavaScript, HTML5, CSS3, PHP |
+| *Software Devlopment* |   Java,Fullstack devlopment, C, C++, Python, JavaScript, HTML5, CSS3, PHP |
 | *Data Analytics & BI* | PySpark, scikit-learn, MS Excel, Power BI, QlikSense, Data Modeling |
 | *Business Analysis* | Requirements Gathering, Process Mapping, Data-Driven Decision Making, SDLC |
 | *Databases & Tools* | MySQL, Relational Database Management, VAPT (Vulnerability Assessment) |
@@ -31,6 +31,19 @@ Detail-oriented and analytical professional with a strong academic foundation in
   - Live Demo[https://komalarude.github.io/student-record-management-system/]
 
 ---
+
+### 📜 Certifications & Internship Experience
+
+#### 💼 Work Experience
+* *Software Developer Intern* — ITpreneur (6 Months)
+  * Worked on hands-on software development, feature updates, and debugging.
+  * Applied core programming practices and database integration to solve real-world technical problems.
+
+#### 🎓 Professional Certifications
+* *Java Full Stack Development* — SevenMentor, Pune
+  * Comprehensive training covering Java, Web Technologies, Database Management, and Full-Stack Application Architecture.
+* *Java Programming Stack* — FirstBit Solutions
+  * Specialized certification focusing on Core Java, Object-Oriented Programming (OOPs), and Backend Development concepts.
 
 
  📬 Connect With Me
